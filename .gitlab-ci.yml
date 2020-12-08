@@ -1,0 +1,7 @@
+pages:
+  stage: deploy
+  docs:
+    paths:
+    - public
+  only:
+  - master
