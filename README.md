@@ -1,8 +1,6 @@
-# Getting Started with Create React App
+# GifExpertApp
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
+Una pequeña aplicación hecha en React con Hooks para buscar y mostrar gifs animados.
 
 In the project directory, you can run:
 
